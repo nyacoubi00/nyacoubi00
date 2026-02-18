@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🧑 Nassim
 
-<!--
-**nyacoubi00/nyacoubi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en informatique à l’école 42 Lyon
 
-Here are some ideas to get you started:
+💻 Développeur orienté full-stack   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🛠 Compétences
+
+### Langages
+C • C++ • JavaScript • TypeScript • HTML • CSS  
+
+### Web & Backend
+Node.js • Fastify • Express.js • React • Tailwind CSS  
+
+### Systèmes & outils
+Linux • Bash • Git/GitHub • Docker • Makefile  
+
+---
+
+## 🏓 Projet phare — Transcendence
+
+Application web full-stack temps réel développée en équipe de 5.
+
+### 🔹 Features :
+- Jeu Pong multijoueur en temps réel
+- Matchmaking automatisé & tournois
+- Chat et gestion de profils
+- Authentification sécurisée (OAuth, JWT, 2FA)
+- Architecture micro-services conteneurisée
+
+### 🔧 Stack :
+Node.js · Fastify · TypeScript · HTML · TailwindCSS · SQLite (Drizzle ORM) · Docker
+
+🔗 https://github.com/ll-hotel/42-ft_transcendence
+
